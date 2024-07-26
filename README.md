@@ -88,22 +88,38 @@
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FBrunoSobrino%2FTheMystic-Bot-MD) 
 
 ### `▢ ACTIVAR EN TERMUX` 
-->  cd
-->  termux-setup-storage
-->  apt update 
-->  pkg upgrade 
-->  pkg install git -y
-->  pkg install nodejs -y
-->  pkg install ffmpeg -y
-->  pkg install imagemagick -y
-->  pkg install yarn
-->  git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD
-->  cd TheMystic-Bot-MD
-->  npm install
-->  yarn install 
-->  npm install
-->  npm update
-->  npm start
+👉🏻USA ESTOS COMANDOS
+>cd
+
+>termux-setup-storage
+
+>apt update
+
+>pkg upgrade
+
+>pkg install git -y
+
+>pkg install nodejs -y
+
+>pkg install ffmpeg -y
+
+>pkg install imagemagick -y
+
+>pkg install yarn
+
+>git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD
+
+>cd TheMystic-Bot-MD
+
+>npm install
+
+>yarn install
+
+>npm install
+
+>npm update
+
+>npm start
 
 ### `▢ NOTAS`
 - SE AGREGÓ LA FUNCION DE MULTIIDIOMAS, USA EL COMANDO #lang PARA CONOCER MAS INFO Y LOS IDIOMAS DISPOSIBLES
